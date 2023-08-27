@@ -1,1 +1,6 @@
 # ProjectOne
+
+Been learning to code for A while now, after all the effort that I've put into this process, the one giant thing that I've figured out about learning this thing, or anything for that is to first of all have the need to learn it. Let's put this in a better way.
+Even though I am learning stuff I can't be pretty that I can recall those things and build something out of that knowledge, it's pretty sure to me by now that the only way for me to learn this better is to build things from that learning. I've heard this from a couple of people that Just in time learning is better then the other type of learning which is just learning. What just in time learning does is that it fits the knowledge of learning something into the process of using it to get something done. And this is where I can be sure that what I've learnt is useful because I have gotten something done out of that knowledge which is very clear to me with the results that I can see. So this is they way to move forward, meaning with this ProjectOne I will be brining here everything that I'll learn in the FULL STACK WEB DEVELOPMENT world and integrate the knowledge into build this one project, what ever this might turn out to be.
+And documenting things to be precise on my understanding of the matter and it's role in the project.
+Let's GO.
